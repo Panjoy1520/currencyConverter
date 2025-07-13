@@ -25,3 +25,7 @@ A simple, responsive currency converter built with **React** and **Vite**, style
 ```bash
 git clone https://github.com/Panjoy1520/currencyConverter.git
 cd currencyConverter
+
+npm install
+
+npm run dev
