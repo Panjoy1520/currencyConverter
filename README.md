@@ -18,3 +18,10 @@ A simple, responsive currency converter built with **React** and **Vite**, style
 - [Exchange rate API](https://exchangerate-api.com/) or similar service
 
 
+## 📦 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Panjoy1520/currencyConverter.git
+cd currencyConverter
