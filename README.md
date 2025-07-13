@@ -29,3 +29,15 @@ cd currencyConverter
 npm install
 
 npm run dev
+
+currencyConverter/
+├── src/
+│   ├── App.jsx
+│   ├── components/
+│   ├── index.css
+│   └── main.jsx
+├── public/
+├── package.json
+└── vite.config.js
+
+Made with ❤️ by Panjoy1520
